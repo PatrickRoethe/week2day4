@@ -1,0 +1,23 @@
+section{
+background-color:whitesmoke;
+    min-height: ;
+border-radius: 8px;
+height: 100px;
+padding: 16px;
+border: 1px; solid-color: lightgrey; }
+
+form {
+     height: 100%;
+}
+
+label, input, textarea {
+    display: block;
+}
+
+#message { resize: none;
+}
+/* resize vertical / horizontal */
+
+#container {
+    margin: 16px 0; /*the firstvalue is for top and bottom and second value is for right and left*/
+}
